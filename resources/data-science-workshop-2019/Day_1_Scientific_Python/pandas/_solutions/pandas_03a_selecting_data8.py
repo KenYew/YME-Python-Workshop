@@ -1,1 +1,0 @@
-df.loc[df['Surname'].str.startswith('Williams'), :]

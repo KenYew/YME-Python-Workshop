@@ -1,1 +1,0 @@
-df.loc[df['Surname'].str.len() > 15, :]
