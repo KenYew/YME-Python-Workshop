@@ -4,6 +4,7 @@
 
 # YME: Python Workshop
 ## Date: 8th and 9th February, 2020
+## Author: Ken Yew Piong
 This is a repository containing workshop materials and codes for the Young Malaysians Engineers (YME) Society Python workshop. It will be a 2-day event consisting on Python basics workshop followed by Data Science with Machine Learning workshop.
 
 ## Day 1: Introduction to Python Workshop
