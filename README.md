@@ -1,5 +1,5 @@
 <div>
-<img src="https://ymeglobal.org/wp-content/uploads/2019/02/YME-LOGO-2017.png" width="300px" align = "left"/>
+<img src="images/YME-logo.png" width="200px" align = "middle"/>
 </div>
 
 # YME: Python Workshop
